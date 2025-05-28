@@ -1,13 +1,15 @@
 ﻿
 
+using LeetCode.Search2DMatrix;
+
 public class Program
 {
     public static void Main(string[] args)
     {
-        var nums = new int[] { -1, 0, 2, 4, 6, 8 };
-        var numsTwo = new int[] { -1, 0, 2, 4, 6, 8 };
-        Console.WriteLine(BS.Search(nums, 4));
-        Console.WriteLine(BS.Search(numsTwo, 3));
+        var matrix = new int[][] { new int[] { 1, 2, 4, 8 },
+                                  new int[] { 10, 11, 12, 13 },
+                                 new int[] { 14, 20, 30, 40 } };
+        Console.WriteLine(Search2DMatrix.SearchMatrix(matrix, 10));
     }
 
     static int EvalRPN(string[] tokens)
