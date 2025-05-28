@@ -1,0 +1,15 @@
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.deps.json
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.runtimeconfig.json
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.dll
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/bin/Debug/net9.0/LeetCode.pdb
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfoInputs.cache
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.AssemblyInfo.cs
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.sourcelink.json
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.dll
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/refint/LeetCode.dll
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.pdb
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/LeetCode.genruntimeconfig.cache
+/Users/barrmohammed/Desktop/DotnetLearning/LeetCode/LeetCode/obj/Debug/net9.0/ref/LeetCode.dll
