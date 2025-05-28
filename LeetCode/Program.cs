@@ -4,8 +4,10 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var tokens = new string[] {"1","2","+","3","*","4","-"};
-        Console.WriteLine(EvalRPN(tokens));
+        var nums = new int[] { -1, 0, 2, 4, 6, 8 };
+        var numsTwo = new int[] { -1, 0, 2, 4, 6, 8 };
+        Console.WriteLine(BS.Search(nums, 4));
+        Console.WriteLine(BS.Search(numsTwo, 3));
     }
 
     static int EvalRPN(string[] tokens)
