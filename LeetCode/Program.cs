@@ -1,5 +1,6 @@
 ﻿
 
+using LeetCode.BinarySearch;
 using LeetCode.Search2DMatrix;
 
 public class Program
@@ -10,6 +11,9 @@ public class Program
                                   new int[] { 10, 11, 12, 13 },
                                  new int[] { 14, 20, 30, 40 } };
         Console.WriteLine(Search2DMatrix.SearchMatrix(matrix, 10));
+
+        var piles = new int[] { 312884470 };
+        Console.WriteLine(KokoBananas.MinEatingSpeed(piles, 312884469));
     }
 
     static int EvalRPN(string[] tokens)
