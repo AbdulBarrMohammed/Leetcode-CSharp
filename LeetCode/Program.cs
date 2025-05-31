@@ -14,7 +14,7 @@ public class Program
 
         //var piles = new int[] { 312884470 };
         //Console.WriteLine(KokoBananas.MinEatingSpeed(piles, 312884469));
-        var arry = new int[] {1,2,3,4 };
+        var arry = new int[] {4,5,1,2,3 };
         Console.WriteLine(FindMinRotatedArray.FindMin(arry));
     }
 

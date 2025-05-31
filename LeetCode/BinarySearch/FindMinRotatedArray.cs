@@ -14,24 +14,20 @@ namespace LeetCode.BinarySearch
             int right = nums.Length - 1;
             int lowest = nums.Max();
 
-            while (left <= right)
+            while (left < right)
             {
                 int mid = left + (right - left) / 2;
 
                 //check if half is sorted
-                if (nums[mid] < nums[right])
+                if (nums[mid] > nums[right])
                 {
-                    lowest = Math.Min(lowest, nums[mid]);
-                    right = mid - 1;
-                }
-                else if (nums[mid] > nums[left])
-                {
-                    lowest = Math.Min(lowest, nums[left]);
+                   
                     left = mid + 1;
                 }
                 else
                 {
-                    return nums[mid];
+
+                    right = mid;
                 }
 
             }
