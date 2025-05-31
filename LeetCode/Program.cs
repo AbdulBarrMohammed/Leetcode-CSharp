@@ -12,8 +12,10 @@ public class Program
                                  new int[] { 14, 20, 30, 40 } };
         Console.WriteLine(Search2DMatrix.SearchMatrix(matrix, 10));
 
-        var piles = new int[] { 312884470 };
-        Console.WriteLine(KokoBananas.MinEatingSpeed(piles, 312884469));
+        //var piles = new int[] { 312884470 };
+        //Console.WriteLine(KokoBananas.MinEatingSpeed(piles, 312884469));
+        var arry = new int[] {1,2,3,4 };
+        Console.WriteLine(FindMinRotatedArray.FindMin(arry));
     }
 
     static int EvalRPN(string[] tokens)
